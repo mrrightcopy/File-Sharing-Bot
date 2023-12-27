@@ -30,7 +30,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001884285982")) #Tv Serials
 #CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001773942005")) #Series Web
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "807374433"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1461155141"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
