@@ -69,7 +69,8 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "🆔 @Quality_LinksZ 👈 Join Our Main Channel"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1250450587)
+ADMINS.append(807374433)
+ADMINS.append(1109543851)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
