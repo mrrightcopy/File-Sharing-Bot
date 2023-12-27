@@ -17,10 +17,10 @@ TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5925688295:AAE3mRUwnJsHdBo5TVTCib
 #TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6961541840:AAFY396GaaVLnm1cWd_aRkD5UV7vk7olPrA") #Series Web
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "1923471"))
+APP_ID = int(os.environ.get("APP_ID", "8733404"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "fcdc178451cd234e63faefd38895c991")
+API_HASH = os.environ.get("API_HASH", "f19aed00b0c74abed0359016afc1733f")
 
 #Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001884285982")) #Tv Serials
